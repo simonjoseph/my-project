@@ -6,7 +6,6 @@ module.exports = [
     config: {
       enabled: true,
       header: '*',
-
     }
   },
   'strapi::poweredBy',
